@@ -27,7 +27,7 @@ https://wilsoninnovations.net/a-and-b-electric-sarasota/
 - `Electrician` JSON-LD, semantic HTML, alt text, reduced-motion-aware reveals, lazy-loaded images.
 
 ## Image credits (Unsplash photo IDs — self-hosted in assets/)
-- hero.jpg / og-preview.jpg — photo-1600210492493-0946911123ea
+- hero.jpg / og-preview.jpg — photo-1648881806148-e5c51179c826
 - work-lighting.jpg — photo-1558449028-b53a39d100fc
 - work-commercial.jpg — photo-1531973576160-7125cd663d86
 - work-switches.jpg — photo-1556909190-eccf4a8bf97a
